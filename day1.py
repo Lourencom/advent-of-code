@@ -1,7 +1,7 @@
 import math
 # This is a sample Python script.
 
-inp = open("../../input", "r")
+inp = open("input", "r")
 def maximumelf():
     value = 0
     lines = inp.readlines()
